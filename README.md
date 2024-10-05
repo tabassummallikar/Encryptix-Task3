@@ -48,3 +48,5 @@ Character Variety: Guarantees inclusion of lowercase, uppercase, digits, and spe
 Randomization: Utilizes random.choices and random.shuffle to create a randomized password.
 
 User Input Handling: Prompts the user for desired password length and includes error handling for invalid inputs.
+
+![image alt](https://github.com/tabassummallikar/Encryptix-Task3/blob/37473550dd2bd06b536993560c7879a77a2ea36e/Screenshot%20(5).png)
