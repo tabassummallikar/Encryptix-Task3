@@ -13,9 +13,11 @@ Duration: Oct to Nov 2024
 **Project: Password Generator**
 
 **Objective**
+
 The objective of this code is to generate a secure, random password of a user-specified length, ensuring it contains at least one lowercase letter, one uppercase letter, one digit, and one special character.
 
 **Key Activities**
+
 Input Prompt: The user is asked to enter the desired password length.
 
 Validation: The length is checked to ensure it is at least 4 characters for security.
@@ -30,6 +32,7 @@ Output: The generated password is displayed to the user.
 Error Handling: If the input is not a valid number, an error message is shown.
 
 **Technologies Used**
+
 Python: The main programming language used for writing the code.
 
 random module: Used to generate random choices for password characters.
@@ -39,6 +42,7 @@ string module: Provides access to pre-defined sets of characters like letters, d
 Control flow: Conditional statements (if) and try-except blocks handle input validation and error checking.
 
 **Key Insights**
+
 Password Requirements: The password must be at least 4 characters long for security and include at least one lowercase, uppercase, digit, and special character.
 
 Randomization: The password is built using a combination of randomly chosen characters from ASCII letters, digits, and punctuation.
